@@ -1,4 +1,4 @@
-8
+9
 
 *A mostly reasonable approach to JavaScript*
 
